@@ -2,8 +2,6 @@
 //  ContentView.swift
 //  GuessTheFlag2
 //
-//  Created by Vinay Kumar Thapa on 2022-12-27.
-//
 
 import SwiftUI
 
